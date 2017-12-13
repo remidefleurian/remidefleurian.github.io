@@ -6,9 +6,7 @@ Member of the [Music Cognition Lab](http://music-cognition.eecs.qmul.ac.uk/) and
 
 MSc in Music, Mind & Brain, Goldsmiths, and BSc in Osteopathic Studies, British School of Osteopathy.
 
-[Publications](https://scholar.google.co.uk/citations?user=kH6xaHsAAAAJ).
-
-[Email](mailto:r.defleurian@qmul.ac.uk).
+[Publications](https://scholar.google.co.uk/citations?user=kH6xaHsAAAAJ), [Email](mailto:r.defleurian@qmul.ac.uk).
 
 ## Papers
 - [Information-theoretic measures predict the human judgment of rhythm complexity](https://github.com/remidefleurian/remidefleurian.github.io/raw/master/papers/defleurian2017.pdf), Cognitive Science, 2017.
