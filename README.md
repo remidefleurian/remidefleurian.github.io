@@ -1,4 +1,4 @@
-# Remi de Fleurian
+# Rémi de Fleurian
 
 PhD student, interested in expectancy and aesthetic response, and researching the prediction of pleasurable moments in music.
 
