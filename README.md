@@ -14,3 +14,6 @@ MSc in Music, Mind & Brain, Goldsmiths, and BSc in Osteopathic Studies, British 
 ## Talks
 - Predicting pleasurable moments in music, Music Cognition Lab seminar, Queen Mary University of London, 2017.
 - [Formal measures of complexity predict the accuracy in guessing the end of rhythmic patterns](https://github.com/remidefleurian/remidefleurian.github.io/raw/master/talks/defleurian2015.pdf), [ESCOM](http://www.escom.org/conferences-triennial.html), Royal Northern College of Music, 2015.
+
+## Teaching
+- Teaching assistant, Research Methods I, Queen Mary University of London, 2018.
