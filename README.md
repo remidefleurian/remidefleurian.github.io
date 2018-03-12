@@ -8,7 +8,7 @@ MSc in Music, Mind & Brain, Goldsmiths.
 
 [Publications](https://scholar.google.co.uk/citations?user=kH6xaHsAAAAJ), [Email](mailto:r.defleurian@qmul.ac.uk).
 
-## Current studies
+## Ongoing study
 - Online survey study on pleasurable moments in music. Please [participate](https://qmulsciences.qualtrics.com/jfe/form/SV_24CEZwe2NiaiP7n)!
 
 ## Papers
