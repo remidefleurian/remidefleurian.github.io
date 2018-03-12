@@ -14,6 +14,9 @@ MSc in Music, Mind & Brain, Goldsmiths.
 ## Papers
 - [Information-theoretic measures predict the human judgment of rhythm complexity](https://github.com/remidefleurian/remidefleurian.github.io/raw/master/papers/defleurian2017.pdf), Cognitive Science, 2017.
 
+## Posters
+- Predicting pleasurable moments in music, [EiTIC Doctoral Student Workshop](https://www.upf.edu/web/etic_doctoral_workshop/), Universitat Pompeu Fabra, 2018.
+
 ## Talks
 - Predicting pleasurable moments in music, Music Cognition Lab seminar, Queen Mary University of London, 2017.
 - [Formal measures of complexity predict the accuracy in guessing the end of rhythmic patterns](https://github.com/remidefleurian/remidefleurian.github.io/raw/master/talks/defleurian2015.pdf), [ESCOM](http://www.escom.org/conferences-triennial.html), Royal Northern College of Music, 2015.
