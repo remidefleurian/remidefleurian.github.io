@@ -6,19 +6,19 @@ MSc in Music, Mind & Brain, Goldsmiths
 [Publications](https://scholar.google.co.uk/citations?user=kH6xaHsAAAAJ)   
 [Email](mailto:r.defleurian@qmul.ac.uk)
 
-##### Current projects
+#### Current projects
 Online survey study on pleasurable moments in music. Please [participate](https://qmulsciences.qualtrics.com/jfe/form/SV_24CEZwe2NiaiP7n)!
 
-##### Papers
+#### Papers
 2017 - [Information-theoretic measures predict the human judgment of rhythm complexity](https://github.com/remidefleurian/remidefleurian.github.io/raw/master/papers/defleurian2017.pdf), Cognitive Science
 
-##### Posters
+#### Posters
 2018 - Predicting pleasurable moments in music, [EiTIC Doctoral Student Workshop](https://www.upf.edu/web/etic_doctoral_workshop/), UPF
 
-##### Talks
+#### Talks
 2018 - Stylistic preference, familiarity and chills, Music Cognition Lab seminar, QMUL  
 2017 - Predicting pleasurable moments in music, Music Cognition Lab seminar, QMUL  
 2015 - [Formal measures of complexity predict the accuracy in guessing the end of rhythmic patterns](https://github.com/remidefleurian/remidefleurian.github.io/raw/master/talks/defleurian2015.pdf), [ESCOM](http://www.escom.org/conferences-triennial.html), RNCM
 
-##### Teaching
+#### Teaching
 2018 - LaTeX and R workshops, Research Methods, QMUL
