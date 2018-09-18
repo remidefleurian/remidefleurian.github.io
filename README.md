@@ -21,4 +21,4 @@ Online survey study on pleasurable moments in music. Please [participate](https:
 2015 - [Formal measures of complexity predict the accuracy in guessing the end of rhythmic patterns](https://github.com/remidefleurian/remidefleurian.github.io/raw/master/talks/defleurian2015.pdf), [ESCOM](http://www.escom.org/conferences-triennial.html), RNCM
 
 #### Teaching
-2018 - LaTeX and R workshops, Research Methods, QMUL
+2018 - LaTeX, R, and Statistics workshops, Research Methods, QMUL
