@@ -7,7 +7,8 @@ MSc in Music, Mind & Brain, Goldsmiths
 [Email](mailto:r.defleurian@qmul.ac.uk)
 
 #### Current projects
-Online survey study on pleasurable moments in music. Please [participate](https://qmulsciences.qualtrics.com/jfe/form/SV_24CEZwe2NiaiP7n)!
+Online survey study on pleasurable moments in music. Please [participate](https://qmulsciences.qualtrics.com/jfe/form/SV_24CEZwe2NiaiP7n)!  
+Longitudinal study on musical chills. Call for participants available [here](https://github.com/remidefleurian/remidefleurian.github.io/raw/master/pfcstudy/call2018.pdf).
 
 #### Papers
 2017 - [Information-theoretic measures predict the human judgment of rhythm complexity](https://github.com/remidefleurian/remidefleurian.github.io/raw/master/papers/defleurian2017.pdf), Cognitive Science
