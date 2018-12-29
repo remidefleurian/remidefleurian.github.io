@@ -1,1 +1,1 @@
-This website has been migrated to Netlify. To access, visit [remidefleurian.com](http://remidefleurian.com).
+This website has been migrated to Netlify. To access, visit [remidefleurian.com](https://remidefleurian.com).
